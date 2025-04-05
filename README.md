@@ -1,1 +1,1 @@
-﻿# Music Recommendation System
+﻿# VibeVerse - Music Recommendation System
